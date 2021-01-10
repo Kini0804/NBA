@@ -1,0 +1,6 @@
+framework module Pods_nbascheExtension {
+  umbrella header "Pods-nbascheExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
