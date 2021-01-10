@@ -5,15 +5,15 @@
 
 桌面小组件显示当天的比赛信息
 
-<img src="/Users/liushaodong/Downloads/IMG_0906.PNG" style="zoom:50%;" />
+<img src="/Users/liushaodong/xCodeProjects/nba2/nba2/img/IMG_0906.png" style="zoom:50%;" />
 
 <center>赛程浏览页面</center>
 
-<img src="/Users/liushaodong/Downloads/IMG_0907.PNG" style="zoom:50%;" />
+<img src="/Users/liushaodong/xCodeProjects/nba2/nba2/img/IMG_0907.png" style="zoom:50%;" />
 
 <center>订阅喜欢的球队</center>
 
-<img src="/Users/liushaodong/Downloads/IMG_0909.PNG" style="zoom:50%;" />
+<img src="/Users/liushaodong/xCodeProjects/nba2/nba2/img/IMG_0909.png" alt="a" style="zoom:50%;" />
 
 <center>桌面小组件展示</center>
 
